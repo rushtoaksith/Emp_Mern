@@ -17,7 +17,7 @@
     "flowbite": "^1.4.7",
     "flowbite-react": "^0.0.27",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.4.0",
+    "mongoose": "^6.13.6",
     "nodemon": "^2.0.16"
   }
 }
